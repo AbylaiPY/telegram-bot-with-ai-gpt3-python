@@ -1,6 +1,8 @@
 # telegram-bot-with-ai-gpt3-python
 Telegram bot with ai gpt3 python
 
+pip install openai
+pip install telebot
 
 CREATE YOUR API KEY - https://beta.openai.com/signup/
 CREATE YOUR TOKEN TELEGRAM BOT - @BotFather
